@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋!
-  My name is Gurkirat Singh and I'm a Full Stack Developer, from Vancouver, British Columbia</h2>
+<h2 align="left">Hi there!!👋!
+ 
 
 ###
 
