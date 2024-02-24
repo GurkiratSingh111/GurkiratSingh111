@@ -112,5 +112,29 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+Hi👋
+TODO
+
+<p align="center">
+  My Skills
+</p>
+<hr>
+Languages:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,kotlin,python,matlab,css,html" />
+  </a>
+</p>
+Frameworks and tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,threejs,express,nodejs,mongodb,mysql" />
+  </a>
+</p>
+<!-- 
+[![Top Langs](https://github-readme-stats-git-master-m-parsaei.vercel.app/api/top-langs/?username=M-Parsaei)](https://github.com/anuraghazra/github-readme-stats) --->
+
+[![Top Langs](https://github-readme-stats-git-master-gurkiratsingh111.vercel.app/api/top-langs/?username=GurkiratSingh111&layout=pie&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ###
 ###
+
