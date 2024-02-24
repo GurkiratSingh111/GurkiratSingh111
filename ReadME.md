@@ -98,8 +98,6 @@
 
 
 
-###
-
 
 
 
@@ -115,6 +113,5 @@
 <div align="right>
 </div>
 </div>
--->[![Top Langs](https://github-readme-stats-git-master-m-parsaei.vercel.app/api/top-langs/?username=GurkiratSingh111&layout=pie&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
--->
+<--[![Top Langs](https://github-readme-stats-git-master-m-parsaei.vercel.app/api/top-langs/?username=GurkiratSingh111&layout=pie&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
  
