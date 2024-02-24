@@ -96,4 +96,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GurkiratSingh111&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-[![Top Langs](https://github-readme-stats-git-master-m-parsaei.vercel.app/api/top-langs/?username=M-Parsaei&layout=pie&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-git-master-m-parsaei.vercel.app/api/top-langs/?username=GurkiratSingh111&layout=pie&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
