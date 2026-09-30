@@ -1,6 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gurkirat Singh  
 * 🌍  I'm based in Vancouver, Canada
-* 🖥️  See my portfolio at [www.gurkiratsingharora.info](https://www.gurkiratsingharora.info)
 * ✉️  You can contact me at [gsa119@sfu.ca](mailto:gsa119@sfu.ca)
 
 Skills
